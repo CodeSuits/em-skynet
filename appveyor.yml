@@ -35,5 +35,5 @@ build_script:
 test_script:
 - cmd: #skynet.exe autotest\config
 artifacts:
-- path: skynet_mingw.zip
-  name: skynet_mingw
+- path: em_skynet.zip
+  name: em_skynet
